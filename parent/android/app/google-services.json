@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031142618857",
+    "firebase_url": "https://testnode-81716.firebaseio.com",
+    "project_id": "testnode-81716",
+    "storage_bucket": "testnode-81716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031142618857:android:b497da3fbd94151335a278",
+        "android_client_info": {
+          "package_name": "com.example.geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031142618857-gst6oatb33h7en2mikpqi7afbus86c76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90o3KeRtiBSpdGM9QX0XR6KLtze8mNnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031142618857-gst6oatb33h7en2mikpqi7afbus86c76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
